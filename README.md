@@ -1,4 +1,4 @@
-# The GRUB Album (Bootleg Version)
+# The GRUB Album (*Boot*leg Version)
 
 You get the idea of it, no need to explain further.
 
@@ -13,4 +13,10 @@ You get the idea of it, no need to explain.
 
 I present to you, the bootleg version of the not famous The GRUB Album, by who? idk
 
-- bbeetlesam
+## Installation
+
+There's nothing yet. Why do you even need to install it?
+
+Just enjoy the looks of the repo, you'll get it soon if I can get out of my procrastination state.
+
+a funny personal project by bbeetlesam.
